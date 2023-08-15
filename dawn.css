@@ -1,0 +1,148 @@
+.span {
+    background-color: black;
+    color: beige;
+    font-size: small;
+    text-align: center
+    
+}
+.dawn {
+     font-size: 70px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    text-align: center;
+}
+.day {
+    text-align: center;
+}
+.latest { display: flex;
+    justify-content: space-around;
+    word-spacing: 6px;
+    font-size: 9px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 290px;
+ 
+}
+
+.un { 
+    border: 1px solid;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+.ago { display: flex;
+    justify-content: space-between;
+     margin-left: 180px;
+     margin-top:0%;
+     margin-right: 280px;
+     
+}
+
+.lorem { width: 810px;
+    border: 0;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    margin-right: 140px;
+
+    
+}
+.countainer{
+
+    width: 800px;
+    margin: 15px auto;
+}
+.style{
+    font-size: 25px;
+    margin-top: 0%;
+}
+.comment {font-size: medium;
+    margin-left: 40px;
+
+}
+
+.name { margin-left: 40px;
+    display: flex;
+    column-gap: 30px; 
+    
+
+}
+
+#place {   background-color: rgb(252, 238, 238);
+    border: none;
+
+}
+#holder {   background-color: rgb(252, 238, 238);
+    border: none;
+
+}
+
+
+
+.optional { display: flex;
+    column-gap: 25px;
+    margin-left: 40px;
+}
+#phone{ background-color: rgb(252, 238, 238);
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+
+    
+    
+}
+#city { background-color: rgb(252, 238, 238);
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    display: flex;
+}
+
+.paper { color: red;
+    margin-left: 40px;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.submint { margin-left: 40px;
+    margin-right: 320px;
+    font-size: xx-small;
+
+}
+ .optional { display: flex;
+    column-gap: 25px;
+    margin-left: 40px;
+}
+
+.phone { background-color: rgb(184, 5, 5);
+
+}
+
+.text { margin-top: 5px;
+    margin-left: 40px;
+    background-color: rgb(252, 238, 238);
+    border-radius: 5px;
+    border: none;
+
+}
+
+.button { margin-left: 40px;
+    margin-top: 5px;
+    height: 20px;
+    width: 60px;
+    font-size: .05;
+    border: none;
+    font-weight: 400;
+    background-color: rgb(252, 238, 238);
+
+}
+
+    
+
+
+
+
+
